@@ -32,5 +32,11 @@ This chapter covers topics such as:
 
 ## Chapter 5
 This chapter covers topics such as:
-- will include once finished...
+- Testing and Debugging
+- Techniques for Testing and Debugging
+- How to use IDLE to Debug
+
+## Chapter 6
+This chapter covers topics such as:
+- will include more after finishing...
 
