@@ -5,7 +5,6 @@ This chapter covers topics such as:
 - Introduction to Python
 - How to use IDLE to develop programs
 
-The exercise covers fixing and running first Python Program.
 
 ## Chapter 2
 This chapter covers topics such as:
@@ -36,7 +35,14 @@ This chapter covers topics such as:
 - Techniques for Testing and Debugging
 - How to use IDLE to Debug
 
+
 ## Chapter 6
 This chapter covers topics such as:
-- will include more after finishing...
+- Basic Skills for Working with Lists
+- How to Work with a List of Lists
+- How to Work with a Tuple
 
+
+## Chapter 7
+This chapter covers topics such as:
+- will include when finished...
